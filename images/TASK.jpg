@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<!-- saved from url=(0042)file:///E:/PORTFOLIO/index.html#About%20me -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+ 
+  <title>TASK</title>
+  
+  
+  <link rel="stylesheet" href="./TASK_files/style.css">
+  <link rel="stylesheet" href="./TASK_files/responsive.css">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./TASK_files/font-awesome.min.css">
+  <link rel="stylesheet" href="./TASK_files/bootstrap-icons.css">
+
+ </head>
+ 
+	<body>
+	
+<!----------------header section start---------------->
+
+		<section class="nav-bar">
+		
+		
+		<div class="nav-1">
+			
+			<div class="container">
+			
+			
+			
+				<div class="row ">
+				
+					<div class="col-12 col-sm-12 col-lg-12">
+					
+					
+				
+					<div class="nav-2">
+						<a href="file:///E:/PORTFOLIO/index.html">HOME</a>
+						
+						<a href="file:///E:/PORTFOLIO/index.html#About%20me">ABOUT ME</a>
+						
+						<a href="file:///E:/PORTFOLIO/skills">MY SKILS</a>
+						
+						<a href="file:///E:/PORTFOLIO/skillss">Services</a>
+						
+						<a href="file:///E:/PORTFOLIO/index.html">PORTFOLIO</a>
+						
+						<a href="file:///E:/PORTFOLIO/content">CONTACT</a>
+					</div>	
+					</div>
+
+				</div>
+				
+			</div>
+			
+		</div>	
+				
+	</section>				
+	
+	
+ 
+<!------------------header section start------------------>
+		<section id="header">
+		
+		
+			<div class="head">
+			
+			<div class="container">
+			
+			
+			
+				<div class="row ">
+				
+				
+					
+				
+					<div class="col-12 col-sm-12 col-lg-5">
+					
+					
+						
+						<div class="item-1">
+						
+							<img class="men" src="./TASK_files/mani-2.jpg">
+						
+						
+						
+						</div>
+					
+					
+					</div>
+					<div class="col-12 col-sm-12 col-lg-7">	
+						<div class="tree">
+						<ul>
+						
+						<li><span class="port">Hi! I'm</span></li>
+							
+							<li><span class="port">MANIKANDAN</span></li>
+							
+							<li><span class="pot">Front-End Trainee located in Fabevy Pavoorchatram Specialized in Creating Websites</span></li>
+						</ul>
+						</div>
+						<div class="resume">
+						<a href="file:///E:/PORTFOLIO/index.html#">DOWNLOADCV</a>
+						</div>
+						
+						
+					</div>
+				</div>
+			
+			</div>
+				
+			</div>
+			
+		</section>	
+		
+		
+<!------------------header section end------------------>	
+
+<!------------------about section------------------>
+
+	<section class="about">
+	
+		<div class="body">
+		
+			<div class="container">
+			
+				<div class="about-1">
+				
+					<h1>About me</h1>
+				
+				</div>
+			
+				 <div class="row ">
+				
+					<div class="col-sm-12 col-md-6 col-lg-5">
+					
+						<div class="me-2">
+
+							<img src="./TASK_files/mani-4.jpg">
+						
+						</div>
+						
+					</div>
+
+					<div class="col-sm-12 col-md-6 col-lg-7">
+					
+						<div class="about-item-1">
+					
+							<b>Hello There!</b>
+						
+							<p>Hello! My name is MANIKANDAN. I did my college 2020 in BE specialization and I enjoy creating things that live on the internet . so switch my career on web development and learn technology about web development then create few real time project. Currently I am looking for web developer TRAINEE!</p>
+						
+						</div>
+						
+						
+						
+				
+			
+						
+					
+					
+						<div class="row">
+					
+							<div class=" col-sm-12 col-md-6 col-lg-6">
+							
+								<div class="about-item-2">
+							
+									<ul>
+										<li><i class="bi bi-caret-right-fill"></i>Name:MANIKANDAN</li>
+										<li><i class="bi bi-caret-right-fill"></i>Phone:+91 6383696867</li>
+										<li><i class="bi bi-caret-right-fill"></i>City: Tenkasi, Tamil nadu.</li>
+
+									</ul>	
+							
+								</div>
+							
+							</div>	
+						
+							<div class="col-sm-12 col-md-6 col-lg-6">
+							
+								<div class="about-item-2">
+							
+									<ul>
+										<li><i class="bi bi-caret-right-fill"></i>DOB: 25-07-2001</li>
+										<li><i class="bi bi-caret-right-fill"></i>Degree:BE</li>
+										<li><i class="bi bi-caret-right-fill"></i>Email:rmanikandan6867@gmail.com</li>
+										
+									</ul>	
+								
+								</div>
+							
+							
+							</div>
+						
+						</div>
+						
+						
+						
+						
+					</div>
+						
+					</div>
+
+				</div>
+
+			</div>
+			
+		
+		
+	</section>
+						
+<!------------------about section end------------------>	
+
+<!------------------skill section ------------------>	
+
+
+	<section class="skills">
+		
+		<div class="head">
+		
+			<div class="container">
+			
+				<div class="skill-1">
+				
+					<h1>My Skills</h1>
+				
+				</div>
+				
+				<div class="skill">
+			
+				<div class="row ">
+				
+					<div class="col-sm-12 col-md-6 col-lg-3">
+					
+						<div class="skill-2">
+						
+							<img src="./TASK_files/html.jpg">
+							
+						</div>
+						
+						<div class="progress">
+						
+							<label for="file">HTML:</label>
+							
+							<progress id="file" ;="" value="70" max="100">70%</progress>
+							
+						</div>	
+						
+						 
+						
+					</div>
+					
+					<div class="col-sm-12 col-md-6 col-lg-3">	
+						
+						<div class="skill-3">
+						
+							<img src="./TASK_files/css.jpg">
+							
+						</div>
+						
+						<div class="progress">
+						
+							<label for="file">CSS:</label>
+							
+							<progress id="file" ;="" value="70" max="100">60%</progress>
+							
+						</div>
+						
+					</div>	
+						
+					<div class="col-sm-12 col-md-6 col-lg-3">
+					
+						<div class="skill-4">
+						
+							<img src="./TASK_files/boot2.jpg">
+							
+						</div>
+						
+						<div class="progress">
+						
+							<label for="file">BOOSTRAP:</label>
+							
+							<progress id="file" ;="" value="70" max="100">80%</progress>
+							
+						</div>
+					
+					</div>
+					
+					<div class="col-sm-12 col-md-6 col-lg-3">
+					
+						<div class="skill-5">
+						
+							<img src="./TASK_files/js-5.jpg">
+							
+							
+						</div>
+						
+						<div class="progress-1">
+						
+							<label for="file">JAVA SCRIPT:</label>
+							
+							<progress id="file" ;="" value="70" max="100">70%</progress>
+							
+						</div>
+						
+					
+						
+					</div>	
+					
+				</div>	
+				
+			</div>
+
+		</div>
+	</div>	
+</section>	
+	
+	<!------------------skill section end------------------>	
+
+<!------------------service section ------------------>	
+
+
+	<section class="skillss">
+	
+		<div class="body">
+		
+			<div class="container">
+			
+				<div class="ser-1">
+				
+					<h1>Service</h1>
+				
+				</div>
+				
+				<div class="ser">
+			
+				<div class="row ">
+				
+					<div class=" col-sm-12 col-md-6 col-lg-4">
+					
+						<div class=" card">
+						
+						
+						
+						<div class="set">
+						
+								<i class="bi bi-gear"></i>
+								
+						</div>		
+						
+							<b>FRONTEND </b>
+							<b>DEVELOPMENT</b>
+							
+							
+							<p>I have Fronted skill HTML5, CSS3,BootStrap,JavaScript to build Fronted web &amp; Framework React JS</p>
+						
+						</div>
+					
+					</div>
+					
+					
+					
+					<div class="col-sm-12 col-md-6 col-lg-4">
+					
+						<div class="card">
+						
+						<div class="set">
+						
+								<i class="bi bi-gear"></i>
+								
+						</div>		
+						
+							<b>BACKEND </b>
+							<b>DEVELOPMENT</b>
+							
+							
+							<p>Not started yet can provide services of backend in future, Stay you soon I am learning now, Technology with Node JS</p>
+						
+						</div>
+					
+					</div>
+					
+					
+					
+					
+					<div class="col-sm-12 col-md-6 col-lg-4">
+					
+						<div class="card">
+						
+						<div class="set">
+						
+								<i class="bi bi-gear"></i>
+								
+						</div>		
+						
+							<b>RESPONSIVE WEB </b>
+							<b>DESIGN</b>
+							
+							
+							<p>Build a website fully Responsive with CSS3 Media Queries also bootstrap5 fronted framework</p>
+						
+						</div>
+					
+					</div>
+				</div>	
+				</div>
+
+			</div>		
+		</div>	
+	</section>	
+		
+		
+		<!------------------service section end ------------------>
+		
+		
+<!------------------PORTFOLIO section ------------------>	
+
+
+	<section class="portro">
+	
+		<div class="lio">
+		
+			<div class="container">
+			
+				<div class="port-1">
+				
+					<h1>PORTFOLIO</h1>
+				
+				</div>
+				
+				
+			
+					<div class="row ">
+					
+						<div class=" col-6">
+						
+							<div class="port-3">
+							
+								<img src="./TASK_files/saved_resource">
+							
+							</div>
+							
+						</div>
+
+					
+					
+						
+					
+
+		<!----------------contect section ----------------->
+
+
+		<section class="contect">
+		
+			<div class="head">
+			
+		
+			<div class="container">
+			
+				<div class="con-1">
+				
+					<h1>Contact</h1>
+				
+				</div>
+				
+				<div class="con">
+			
+					<div class="row ">
+				
+						<div class="col-sm-12 col-md-6 col-lg-6">
+						
+							<div class="con-2">
+							
+								<div class="cont">
+							
+									<i class="bi bi-geo-alt"></i>
+									
+								</div>	
+								
+								<h4>Location</h4>
+								
+								<p>5/214 samuthirapuram street kurumbalaperi tenkasi</p>
+								
+							</div>
+							
+						</div>
+						
+						<div class="col-sm-12 col-md-6 col-lg-6">
+						
+							<div class="con-2">
+							
+								<div class="cont">
+							
+									<i class="bi bi-envelope-heart"></i>
+									
+								</div>	
+								
+								<h4>EMail</h4>
+								
+								<p>rmanikandan6867@gmail.com/p&gt;
+								
+							</p></div>
+							
+						</div>
+						
+					
+						<div class="col-sm-12 col-md-6 col-lg-6">
+						
+							<div class="con-2">
+							
+								<div class="cont">
+							
+									<i class="bi bi-linkedin"></i>
+									
+								</div>	
+								
+								<h4>Linkedin</h4>
+								
+								<p>Mani Kandan</p>
+								
+							</div>
+							
+						</div>
+						
+						<div class="col-sm-12 col-md-6 col-lg-6">
+						
+							<div class="con-2">
+							
+								<div class="cont">
+							
+									<i class="bi bi-whatsapp"></i>
+									
+								</div>	
+								
+								<h4>Whatsapp</h4>
+								
+								<p>+91 6383696867</p>
+								
+							</div>
+							
+						</div>
+						
+						
+					</div>
+
+				</div>
+
+		</div>
+	</div>
+</section>
+
+<!------------------contect section end------------------>	
+
+<!------------------design section ------------------>	
+
+
+		<section class="deg">
+		
+		<div class="body">
+		
+			<div class="container">	
+			
+				<div class="row">
+					
+			
+					<div class="power">
+							
+							<h1></h1>
+				
+					</div>
+					
+				</div>	
+				
+			</div>
+			
+			</div>
+
+				</section></div></div></div></section></body></html>
